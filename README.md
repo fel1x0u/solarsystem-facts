@@ -9,4 +9,4 @@ Please visit the folders which are named what your planet is.
 
 # Licence
 
-This repo is licenced under (The Unlicence)[LICENCE].
+This repo is licenced under [The Unlicence](LICENCE).
